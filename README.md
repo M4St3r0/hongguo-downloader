@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🍒 红果 Hongguo Downloader
+<img src="assets/logo.png" width="92" alt="Hongguo Downloader logo">
+
+# 红果 Hongguo Downloader
 
 ### Never lose a short-drama again.
 
@@ -10,8 +12,8 @@ Organized, offline, yours.
 
 <br>
 
-[![Download for Windows](https://img.shields.io/badge/⬇%20Download%20for%20Windows-10%20%2F%2011-ec4327?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)
-[![Website](https://img.shields.io/badge/🌐%20Website-hongguodownloader.com-ff8a3c?style=for-the-badge)](https://hongguodownloader.com)
+[![Download for Windows](https://img.shields.io/badge/⬇%20Download%20for%20Windows-10%20%2F%2011-ff6a2b?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)
+[![Website](https://img.shields.io/badge/🌐%20Website-hongguodownloader.com-24ddcf?style=for-the-badge)](https://hongguodownloader.com)
 [![Telegram](https://img.shields.io/badge/💬%20Get%20a%20key-@M4st3r0-2AABEE?style=for-the-badge)](https://t.me/M4st3r0)
 
 `Windows 10 / 11` · `~84 MB` · `No login` · `No Android emulator` · `Private & local`
