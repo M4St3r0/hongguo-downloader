@@ -14,7 +14,7 @@ Organized, offline, yours.
 
 [![Download for Windows](https://img.shields.io/badge/⬇%20Download%20for%20Windows-10%20%2F%2011-ff6a2b?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)
 [![Website](https://img.shields.io/badge/🌐%20Website-hongguodownloader.com-24ddcf?style=for-the-badge)](https://hongguodownloader.com)
-[![Telegram](https://img.shields.io/badge/💬%20Get%20a%20key-@M4st3r0-2AABEE?style=for-the-badge)](https://t.me/M4st3r0)
+[![Telegram](https://img.shields.io/badge/💬%20Get%20a%20key-@HongguoDownloaderBot-2AABEE?style=for-the-badge)](https://t.me/HongguoDownloaderBot)
 
 `Windows 10 / 11` · `~84 MB` · `No login` · `No Android emulator` · `Private & local`
 
@@ -119,7 +119,7 @@ Use it **free** every day. Go unlimited with a one-time key — pay with **Teleg
 
 <sub>★ = Telegram Stars · one key activates one device · move to another device yourself, once every 7 days.</sub>
 
-**[💬 Get your key on Telegram → @M4st3r0](https://t.me/M4st3r0)**
+**[💬 Get your key on Telegram → @HongguoDownloaderBot](https://t.me/HongguoDownloaderBot)**
 
 ---
 
@@ -143,5 +143,5 @@ Use it **free** every day. Go unlimited with a one-time key — pay with **Teleg
 
 <div align="center">
 <sub>For personal use. Not affiliated with 红果 / Hongguo. Windows 10 &amp; 11 only.<br>
-🌐 <a href="https://hongguodownloader.com">hongguodownloader.com</a> · 💬 <a href="https://t.me/M4st3r0">t.me/M4st3r0</a></sub>
+🌐 <a href="https://hongguodownloader.com">hongguodownloader.com</a> · 💬 <a href="https://t.me/HongguoDownloaderBot">t.me/HongguoDownloaderBot</a></sub>
 </div>
