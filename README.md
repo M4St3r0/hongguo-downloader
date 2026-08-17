@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" width="92" alt="Hongguo Downloader logo">
+<img src="https://hongguodownloader.com/img/logo.png" width="92" alt="Hongguo Downloader logo">
 
 # 红果 Hongguo Downloader
 
@@ -13,6 +13,7 @@ Organized, offline, yours.
 <br>
 
 [![Download for Windows](https://img.shields.io/badge/⬇%20Download%20for%20Windows-10%20%2F%2011-ff6a2b?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)
+[![Latest Release](https://img.shields.io/badge/Release-v1.0.0.17-24ddcf?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.17)
 [![Website](https://img.shields.io/badge/🌐%20Website-hongguodownloader.com-24ddcf?style=for-the-badge)](https://hongguodownloader.com)
 [![Telegram](https://img.shields.io/badge/💬%20Get%20a%20key-@HongguoDownloaderBot-2AABEE?style=for-the-badge)](https://t.me/HongguoDownloaderBot)
 
@@ -20,9 +21,18 @@ Organized, offline, yours.
 
 <br>
 
-<a href="https://hongguodownloader.com"><img src="assets/hero.jpg" width="860" alt="Hongguo Downloader — trending short-dramas and AI dramas"></a>
+<a href="https://hongguodownloader.com"><img src="https://hongguodownloader.com/img/app-hero.jpg" width="860" alt="Hongguo Downloader — trending short-dramas and AI dramas"></a>
 
 </div>
+
+---
+
+## 🚀 What's New in v1.0.0.17
+
+- 🌐 **Direct `hongguoduanju.com` Web Links** — Paste links directly from the official web portal (`hongguoduanju.com/detail?series_id=...` or `/player/...`). The app instantly resolves and matches the full drama from the backend.
+- ⚡ **Zero-Latency Series Matching** — Instant pattern extraction retrieves drama IDs directly from URL queries and paths without blocking on network redirects.
+- 🎁 **2 Free Series Daily Workflow** — Refined daily quota counter. Download 2 full series every single day for free (1080p, all episodes included), with daily quota resets at 00:00 UTC.
+- 🔍 **Smart Omnibox Detection** — Automatically switches between search and link queuing for titles, web links, mobile app share text (`《剧名》...`), or raw series IDs.
 
 ---
 
@@ -44,7 +54,7 @@ clutter, no accounts. It works for regular short-dramas **and** the new **AI-gen
 
 <table>
 <tr>
-<td width="55%"><img src="assets/trending.jpg" width="100%" alt="Search and trending grid"></td>
+<td width="55%"><img src="https://hongguodownloader.com/img/app-trending.jpg" width="100%" alt="Search and trending grid"></td>
 <td width="45%">
 
 ### 🔎 Find & discover
@@ -70,11 +80,11 @@ its own folder — no converting, no ffmpeg.
 - Per-episode picker — `1-3, 5, 8-12` or the lot
 
 </td>
-<td width="55%"><img src="assets/queue.jpg" width="100%" alt="Download queue"></td>
+<td width="55%"><img src="https://hongguodownloader.com/img/app-queue.jpg" width="100%" alt="Download queue"></td>
 </tr>
 
 <tr>
-<td width="55%"><img src="assets/library.jpg" width="100%" alt="Self-updating library"></td>
+<td width="55%"><img src="https://hongguodownloader.com/img/app-library.jpg" width="100%" alt="Self-updating library"></td>
 <td width="45%">
 
 ### 📚 A self-updating Library
@@ -100,7 +110,7 @@ and runs entirely on your own computer.
 - Full-quality **`.mp4`** files you truly own
 
 </td>
-<td width="55%"><img src="assets/episodes.png" width="100%" alt="Episode picker"></td>
+<td width="55%"><img src="https://hongguodownloader.com/img/app-episodes.png" width="100%" alt="Episode picker"></td>
 </tr>
 </table>
 
@@ -135,7 +145,10 @@ Use it **free** every day. Go unlimited with a one-time key — pay with **Teleg
 
 ## ⬇️ Download
 
-### **[Download for Windows →](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)**
+### **[Download for Windows (Latest v1.0.0.17) →](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)**
+
+- [View All Releases](https://github.com/M4St3r0/hongguo-downloader/releases/)
+- [Release Notes (v1.0.0.17)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.17)
 
 > Windows 10 / 11 · one-time install · ~84 MB · free to use (2 downloads a day)
 
