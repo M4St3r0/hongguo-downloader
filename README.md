@@ -27,8 +27,10 @@ Organized, offline, yours.
 
 ---
 
-## 🛡️ What's New in v1.0.0.18 (Security Enhanced)
+## 🛡️ What's New in v1.0.0.18 (Clean Install & Security Enhanced)
 
+- 🧹 **Clean Installation & Web Cache Invalidation** — Setup installer provides a clean installation task that flushes stale Chromium WebView caches upon upgrade while **strictly preserving your active device license**.
+- 🔄 **In-Modal Update Detection** — Replaced intrusive banners with a seamless, discrete dynamic button inside the Account / License modal for a distraction-free UI.
 - 🔒 **Anti-Crack Bytecode Compilation** — All runtime Python modules are compiled directly into optimized binary bytecode (`.pyc`) with all raw plaintext source files stripped from distribution payloads.
 - 🛡️ **Cryptographic HMAC State Integrity** — Offline license state is signed with machine-bound SHA-256 cryptographic signatures, preventing local state tampering and offline grace period manipulation.
 - 🌐 **Direct `hongguoduanju.com` Web Links** — Instant pattern extraction retrieves drama IDs directly from URL queries and paths without blocking on network redirects.
