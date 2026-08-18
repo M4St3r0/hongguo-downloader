@@ -13,11 +13,11 @@ Organized, offline, yours.
 <br>
 
 [![Download for Windows](https://img.shields.io/badge/⬇%20Download%20for%20Windows-10%20%2F%2011-ff6a2b?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)
-[![Latest Release](https://img.shields.io/badge/Release-v1.0.0.17-24ddcf?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.17)
+[![Latest Release](https://img.shields.io/badge/Release-v1.0.0.18-24ddcf?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.18)
 [![Website](https://img.shields.io/badge/🌐%20Website-hongguodownloader.com-24ddcf?style=for-the-badge)](https://hongguodownloader.com)
 [![Telegram](https://img.shields.io/badge/💬%20Get%20a%20key-@HongguoDownloaderBot-2AABEE?style=for-the-badge)](https://t.me/HongguoDownloaderBot)
 
-`Windows 10 / 11` · `~84 MB` · `No login` · `No Android emulator` · `Private & local`
+`Windows 10 / 11` · `~88 MB` · `No login` · `No Android emulator` · `Private & local`
 
 <br>
 
@@ -27,12 +27,12 @@ Organized, offline, yours.
 
 ---
 
-## 🚀 What's New in v1.0.0.17
+## 🛡️ What's New in v1.0.0.18 (Security Enhanced)
 
-- 🌐 **Direct `hongguoduanju.com` Web Links** — Paste links directly from the official web portal (`hongguoduanju.com/detail?series_id=...` or `/player/...`). The app instantly resolves and matches the full drama from the backend.
-- ⚡ **Zero-Latency Series Matching** — Instant pattern extraction retrieves drama IDs directly from URL queries and paths without blocking on network redirects.
-- 🎁 **2 Free Series Daily Workflow** — Refined daily quota counter. Download 2 full series every single day for free (1080p, all episodes included), with daily quota resets at 00:00 UTC.
-- 🔍 **Smart Omnibox Detection** — Automatically switches between search and link queuing for titles, web links, mobile app share text (`《剧名》...`), or raw series IDs.
+- 🔒 **Anti-Crack Bytecode Compilation** — All runtime Python modules are compiled directly into optimized binary bytecode (`.pyc`) with all raw plaintext source files stripped from distribution payloads.
+- 🛡️ **Cryptographic HMAC State Integrity** — Offline license state is signed with machine-bound SHA-256 cryptographic signatures, preventing local state tampering and offline grace period manipulation.
+- 🌐 **Direct `hongguoduanju.com` Web Links** — Instant pattern extraction retrieves drama IDs directly from URL queries and paths without blocking on network redirects.
+- ⚡ **Fail-Closed Resilience** — Embedded fallback verification endpoints ensure uninterrupted operation during network fluctuations while maintaining strict license enforcement.
 
 ---
 
@@ -145,12 +145,12 @@ Use it **free** every day. Go unlimited with a one-time key — pay with **Teleg
 
 ## ⬇️ Download
 
-### **[Download for Windows (Latest v1.0.0.17) →](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)**
+### **[Download for Windows (Latest v1.0.0.18) →](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)**
 
 - [View All Releases](https://github.com/M4St3r0/hongguo-downloader/releases/)
-- [Release Notes (v1.0.0.17)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.17)
+- [Release Notes (v1.0.0.18)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.18)
 
-> Windows 10 / 11 · one-time install · ~84 MB · free to use (2 downloads a day)
+> Windows 10 / 11 · one-time install · ~88 MB · free to use (2 downloads a day)
 
 ---
 
