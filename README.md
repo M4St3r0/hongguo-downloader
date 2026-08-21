@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://hongguodownloader.com/img/logo.png" width="92" alt="Hongguo Downloader logo">
+<img src="assets/logo.png" width="92" alt="Hongguo Downloader logo">
 
 # 红果 Hongguo Downloader
 
@@ -13,7 +13,7 @@ Organized, offline, yours.
 <br>
 
 [![Download for Windows](https://img.shields.io/badge/⬇%20Download%20for%20Windows-10%20%2F%2011-ff6a2b?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)
-[![Latest Release](https://img.shields.io/badge/Release-v1.0.0.18-24ddcf?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.18)
+[![Latest Release](https://img.shields.io/badge/Release-v1.0.0.23-24ddcf?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.23)
 [![Website](https://img.shields.io/badge/🌐%20Website-hongguodownloader.com-24ddcf?style=for-the-badge)](https://hongguodownloader.com)
 [![Telegram](https://img.shields.io/badge/💬%20Get%20a%20key-@HongguoDownloaderBot-2AABEE?style=for-the-badge)](https://t.me/HongguoDownloaderBot)
 
@@ -21,20 +21,19 @@ Organized, offline, yours.
 
 <br>
 
-<a href="https://hongguodownloader.com"><img src="https://hongguodownloader.com/img/app-hero.jpg" width="860" alt="Hongguo Downloader — trending short-dramas and AI dramas"></a>
+<a href="https://hongguodownloader.com"><img src="assets/hero.jpg" width="860" alt="Hongguo Downloader — trending short-dramas and AI dramas"></a>
 
 </div>
 
 ---
 
-## 🛡️ What's New in v1.0.0.18 (Clean Install & Security Enhanced)
+## 🎬 What's New in v1.0.0.23
 
-- 🧹 **Clean Installation & Web Cache Invalidation** — Setup installer provides a clean installation task that flushes stale Chromium WebView caches upon upgrade while **strictly preserving your active device license**.
-- 🔄 **In-Modal Update Detection** — Replaced intrusive banners with a seamless, discrete dynamic button inside the Account / License modal for a distraction-free UI.
-- 🔒 **Anti-Crack Bytecode Compilation** — All runtime Python modules are compiled directly into optimized binary bytecode (`.pyc`) with all raw plaintext source files stripped from distribution payloads.
-- 🛡️ **Cryptographic HMAC State Integrity** — Offline license state is signed with machine-bound SHA-256 cryptographic signatures, preventing local state tampering and offline grace period manipulation.
-- 🌐 **Direct `hongguoduanju.com` Web Links** — Instant pattern extraction retrieves drama IDs directly from URL queries and paths without blocking on network redirects.
-- ⚡ **Fail-Closed Resilience** — Embedded fallback verification endpoints ensure uninterrupted operation during network fluctuations while maintaining strict license enforcement.
+- ♻️ **Update or Clean Install — your choice** — Pick a quick **Update** (refresh in place) or a full **Clean Install** (fresh reset). Stale caches are cleared for an instant refresh, and either way your **license and entire downloaded library are always kept** — you never lose what you've already downloaded.
+- 🔄 **Built-in update checker** — A single button in the Account panel shows **Check Update** when you're up to date, or a one-click **New Version Available** when there's an upgrade — no manual downloading or reinstalling.
+- 🔗 **Paste any drama link** — Search by title, or drop in a **hongguoduanju.com** or **novelquickapp.com** share link, a mobile share card, or a series ID — it resolves instantly, posters and all.
+- 🔒 **Security enhancements** — Ongoing security improvements under the hood to keep the app safe.
+- ⚡ **Stability & polish** — Network-resilient operation, reliability fixes, and refinements throughout for a smoother experience.
 
 ---
 
@@ -56,7 +55,7 @@ clutter, no accounts. It works for regular short-dramas **and** the new **AI-gen
 
 <table>
 <tr>
-<td width="55%"><img src="https://hongguodownloader.com/img/app-trending.jpg" width="100%" alt="Search and trending grid"></td>
+<td width="55%"><img src="assets/trending.jpg" width="100%" alt="Search and trending grid"></td>
 <td width="45%">
 
 ### 🔎 Find & discover
@@ -82,11 +81,11 @@ its own folder — no converting, no ffmpeg.
 - Per-episode picker — `1-3, 5, 8-12` or the lot
 
 </td>
-<td width="55%"><img src="https://hongguodownloader.com/img/app-queue.jpg" width="100%" alt="Download queue"></td>
+<td width="55%"><img src="assets/queue.jpg" width="100%" alt="Download queue"></td>
 </tr>
 
 <tr>
-<td width="55%"><img src="https://hongguodownloader.com/img/app-library.jpg" width="100%" alt="Self-updating library"></td>
+<td width="55%"><img src="assets/library.jpg" width="100%" alt="Self-updating library"></td>
 <td width="45%">
 
 ### 📚 A self-updating Library
@@ -112,7 +111,7 @@ and runs entirely on your own computer.
 - Full-quality **`.mp4`** files you truly own
 
 </td>
-<td width="55%"><img src="https://hongguodownloader.com/img/app-episodes.png" width="100%" alt="Episode picker"></td>
+<td width="55%"><img src="assets/episodes.png" width="100%" alt="Episode picker"></td>
 </tr>
 </table>
 
@@ -147,10 +146,10 @@ Use it **free** every day. Go unlimited with a one-time key — pay with **Teleg
 
 ## ⬇️ Download
 
-### **[Download for Windows (Latest v1.0.0.18) →](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)**
+### **[Download for Windows (Latest v1.0.0.23) →](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)**
 
 - [View All Releases](https://github.com/M4St3r0/hongguo-downloader/releases/)
-- [Release Notes (v1.0.0.18)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.18)
+- [Release Notes (v1.0.0.23)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.23)
 
 > Windows 10 / 11 · one-time install · ~88 MB · free to use (2 downloads a day)
 
