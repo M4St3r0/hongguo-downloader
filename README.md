@@ -13,7 +13,7 @@ Organized, offline, yours.
 <br>
 
 [![Download for Windows](https://img.shields.io/badge/⬇%20Download%20for%20Windows-10%20%2F%2011-ff6a2b?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)
-[![Latest Release](https://img.shields.io/badge/Release-v1.0.0.23-24ddcf?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.23)
+[![Latest Release](https://img.shields.io/badge/Release-v1.0.0.31-24ddcf?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.31)
 [![Website](https://img.shields.io/badge/🌐%20Website-hongguodownloader.com-24ddcf?style=for-the-badge)](https://hongguodownloader.com)
 [![Telegram](https://img.shields.io/badge/💬%20Get%20a%20key-@HongguoDownloaderBot-2AABEE?style=for-the-badge)](https://t.me/HongguoDownloaderBot)
 
@@ -27,13 +27,17 @@ Organized, offline, yours.
 
 ---
 
-## 🎬 What's New in v1.0.0.23
+## 🎬 What's New in v1.0.0.31
 
-- ♻️ **Update or Clean Install — your choice** — Pick a quick **Update** (refresh in place) or a full **Clean Install** (fresh reset). Stale caches are cleared for an instant refresh, and either way your **license and entire downloaded library are always kept** — you never lose what you've already downloaded.
-- 🔄 **Built-in update checker** — A single button in the Account panel shows **Check Update** when you're up to date, or a one-click **New Version Available** when there's an upgrade — no manual downloading or reinstalling.
-- 🔗 **Paste any drama link** — Search by title, or drop in a **hongguoduanju.com** or **novelquickapp.com** share link, a mobile share card, or a series ID — it resolves instantly, posters and all.
-- 🔒 **Security enhancements** — Ongoing security improvements under the hood to keep the app safe.
-- ⚡ **Stability & polish** — Network-resilient operation, reliability fixes, and refinements throughout for a smoother experience.
+<p align="center"><img src="https://hongguodownloader.com/img/whatsnew/1.0.0.31-library.jpg" width="860" alt="Library — the new Update bar and live poster reveal"></p>
+
+- 📚 **Library Update, rebuilt** — "Update all" (and per-series ↻) now actually downloads every new & missing episode — not just the cover and title — and it's much faster on large libraries.
+- ⚙️ **Your own Update settings** — pick the quality (up to 1080p), the speed, and how many series update at once; the app remembers your choices.
+- 🎨 **Live posters** — watch each poster fill in with colour in real time as its episodes download, that satisfying clockwork reveal.
+- ⭐ **Star ratings** on every Library card.
+- 🖥️ **Display size setting** — scales the whole app to fit any screen or Windows display scaling (125%–200%).
+- 🪟 **One clean window** — opening the app again just brings your existing window to the front instead of launching a second copy.
+- 🔒 **Security & performance improvements** under the hood.
 
 ---
 
@@ -146,10 +150,10 @@ Use it **free** every day. Go unlimited with a one-time key — pay with **Teleg
 
 ## ⬇️ Download
 
-### **[Download for Windows (Latest v1.0.0.23) →](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)**
+### **[Download for Windows (Latest v1.0.0.31) →](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)**
 
 - [View All Releases](https://github.com/M4St3r0/hongguo-downloader/releases/)
-- [Release Notes (v1.0.0.23)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.23)
+- [Release Notes (v1.0.0.31)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.31)
 
 > Windows 10 / 11 · one-time install · ~88 MB · free to use (2 downloads a day)
 
