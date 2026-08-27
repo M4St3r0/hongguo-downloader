@@ -13,7 +13,7 @@ Organized, offline, yours.
 <br>
 
 [![Download for Windows](https://img.shields.io/badge/⬇%20Download%20for%20Windows-10%20%2F%2011-ff6a2b?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)
-[![Latest Release](https://img.shields.io/badge/Release-v1.0.0.31-24ddcf?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.31)
+[![Latest Release](https://img.shields.io/badge/Release-v1.0.0.35-24ddcf?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.35)
 [![Website](https://img.shields.io/badge/🌐%20Website-hongguodownloader.com-24ddcf?style=for-the-badge)](https://hongguodownloader.com)
 [![Telegram](https://img.shields.io/badge/💬%20Get%20a%20key-@HongguoDownloaderBot-2AABEE?style=for-the-badge)](https://t.me/HongguoDownloaderBot)
 
@@ -153,10 +153,10 @@ Use it **free** every day. Go unlimited with a one-time key — pay with **Teleg
 
 ## ⬇️ Download
 
-### **[Download for Windows (Latest v1.0.0.31) →](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)**
+### **[Download for Windows (Latest v1.0.0.35) →](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)**
 
 - [View all releases](https://github.com/M4St3r0/hongguo-downloader/releases/)
-- [Release notes (v1.0.0.31)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.31)
+- [Release notes (v1.0.0.35)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.35)
 
 > Windows 10 / 11 · one-time install · ~88 MB · free to use (2 downloads a day)
 >
