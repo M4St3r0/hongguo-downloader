@@ -8,23 +8,20 @@
 
 Download your favourite **红果 (Hongguo)** short-dramas — including the booming wave of
 **AI-generated dramas (AI 短剧)** — in full **1080p**, and keep every episode on your PC.
-Organized, offline, yours.
+Now with a built-in player, one-file series merging, and full library management.
 
 <br>
 
 [![Download for Windows](https://img.shields.io/badge/⬇%20Download%20for%20Windows-10%20%2F%2011-ff6a2b?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)
-[![Latest Release](https://img.shields.io/badge/Release-v1.0.0.35-24ddcf?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.35)
+[![Latest Release](https://img.shields.io/badge/Release-v1.0.0.54-24ddcf?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.54)
 [![Website](https://img.shields.io/badge/🌐%20Website-hongguodownloader.com-24ddcf?style=for-the-badge)](https://hongguodownloader.com)
-[![Telegram](https://img.shields.io/badge/💬%20Get%20a%20key-@HongguoDownloaderBot-2AABEE?style=for-the-badge)](https://t.me/HongguoDownloaderBot)
+[![Telegram](https://img.shields.io/badge/💬%20Support-@HongguoDownloaderBot-2AABEE?style=for-the-badge)](https://t.me/HongguoDownloaderBot)
 
-`Windows 10 / 11` · `~88 MB` · `No login` · `No Android emulator` · `Private & local`
+`Windows 10 / 11` · `~88 MB` · `No login` · `No admin rights` · `No Android emulator` · `Private & local`
 
 <br>
 
-<a href="https://hongguodownloader.com"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://hongguodownloader.com/img/v31/app-home-dark.jpg">
-  <img src="https://hongguodownloader.com/img/v31/app-home-light.jpg" width="900" alt="Hongguo Downloader v1.0.0.31 — trending 红果 short-dramas and AI 短剧 with star ratings and a 1080p download dock">
-</picture></a>
+<a href="https://hongguodownloader.com"><img src="https://hongguodownloader.com/img/home/02-leaderboard.jpg" width="900" alt="Hongguo Downloader — the live 红果 leaderboard ranking short-dramas by category (All / Live-action / Animated / AI) with a 1080p download dock"></a>
 
 </div>
 
@@ -34,13 +31,13 @@ Organized, offline, yours.
 
 **Hongguo Downloader** (**红果下载器 / 红果视频下载器**) is a simple desktop app for Windows that
 searches Hongguo's catalogue, grabs your shows in full quality, and files every episode neatly into
-your own folder — watch anytime, offline, no clutter, no accounts.
+your own folder — then lets you **watch, merge and manage** them without ever leaving the app.
 
 It's the ultimate Chinese **AI-drama downloader**, **hongguoduanju.com video downloader**, and batch
 short-drama downloader. Save your favourite **红果** and **hongguoduanju** short-dramas — including the
 new wave of **AI-generated dramas (AI 短剧 / AI 微短剧)** everyone's talking about — to your PC in full
-**1080p MP4**. Every episode, neatly filed, ready to watch offline — **no login, no Android emulator,
-nothing to set up.**
+**1080p MP4**. Every episode, neatly filed, ready to watch offline — **no login, no admin rights, no
+Android emulator, nothing to set up.**
 
 > ### 👉 See the full site with live screenshots, features & pricing: **[hongguodownloader.com](https://hongguodownloader.com)**
 
@@ -48,96 +45,127 @@ nothing to set up.**
 
 ## 🎬 Features
 
-### 1. Find &amp; discover
-**Search the whole catalogue, or just paste a link.**
+### 1. Find it three ways — keep the whole thing
+**Search, paste a link, or browse.**
 
-Type a title to search Hongguo's library, or drop in a share link and it resolves instantly. Not sure
-what to watch? A built-in **Trending** wall is right there when you open the app — no sign-in required.
+Search any title in Hongguo's own catalogue, or paste a share link straight from **hongguoduanju.com**
+or **novelquickapp.com** — it resolves instantly. The floating **download dock** follows you around: set
+your quality, how many episodes at once and how many series at once, then hit Download.
 
-- Search by title, or paste a **《剧名》 share link**
+- Search by title, or paste a **《剧名》 share link** (hongguoduanju.com / novelquickapp.com)
 - Grab **AI-generated dramas (AI 短剧)** and classics alike
-- **Trending** boards — Recommended, Hot &amp; New
-- Tap posters to line up as many series as you like
-
-<div align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://hongguodownloader.com/img/app-grid-dark.jpg">
-  <img src="https://hongguodownloader.com/img/app-grid-light.jpg" width="900" alt="Search bar and Trending wall of 红果 short-dramas and AI 短剧 with star ratings and episode counts">
-</picture></div>
-
-<br>
-
-### 2. Download in bulk
-**Grab the entire series in one click.**
-
-Queue up several dramas and let them run. Every episode lands as a clean, playable **`.mp4`** in its own
-folder — no converting, no ffmpeg, nothing to untangle. Want just a few episodes? Pick the exact ones.
-
-- Batch **whole series at once** with a live progress queue
-- Choose quality up to **1080p** and how fast to go
-- Per-episode picker — grab **1‑3, 5, 8‑12** or the lot
+- Floating **download dock** — quality, episodes & series at once
 - Every episode filed as **第NNN集.mp4** in its own folder
 
-<div align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://hongguodownloader.com/img/app-queue-dark.jpg">
-  <img src="https://hongguodownloader.com/img/app-queue-light.jpg" width="900" alt="Download queue — 红果 dramas downloading, queued and done with live progress bars">
-</picture></div>
+<div align="center"><img src="https://hongguodownloader.com/img/home/01-hero.jpg" width="900" alt="The Download screen — search a title or paste a novelquickapp.com / hongguoduanju.com share link"></div>
 
 <br>
 
-### 3. Your collection — a self-updating Library &nbsp;·&nbsp; ⭐ *Rebuilt in v1.0.0.31*
-**A library that keeps itself up to date — and now downloads every new episode.**
+### 2. Live trending — the 红果 leaderboard, built in
+**Open the app straight onto the real-time charts.**
 
-Everything you download shows up as a poster shelf you can sort and browse. When a series you follow
-gets new episodes, the app spots them — and one tap on **Update all** now grabs every new &amp; missing
-episode, not just the cover, straight into the drama's existing folder.
+The exact rankings the platform is pushing right now, refreshed continuously. Flip the whole board by
+category with one tap: **All**, **Live-action**, **Animated**, or **AI 短剧** — then send anything to your
+queue without leaving the page.
 
-- A poster-wall **Library** of everything you own, with **“+N new”** badges when episodes appear
-- **Update all, rebuilt** — downloads every new &amp; missing episode, and much faster on big libraries
-- **New — your own Update settings**: quality (up to 1080p), speed, and how many series at once
-- **New — live posters** that fill in with colour in real time as episodes download
-- **New — ⭐ star ratings** on every card · sort by new, rating or recently added
+- Live **红果 leaderboard** — the real top charts
+- Switch by category: **All · Live-action · Animated · AI**
+- Queue a trending drama in **one tap**
 
-<div align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://hongguodownloader.com/img/v31/app-library-dark.jpg">
-  <img src="https://hongguodownloader.com/img/v31/app-library-light.jpg" width="900" alt="Hongguo Downloader v1.0.0.31 Library with the new Update settings bar, star ratings and new-episode badges">
-</picture></div>
+<div align="center"><img src="https://hongguodownloader.com/img/home/03-catalog.jpg" width="900" alt="The Catalogue browsing 26,000+ verified short-dramas with genre chips, search, sort and status filter"></div>
 
 <br>
 
-### 4. Simple &amp; private
-**It just runs. Nothing to sign into.**
+### 3. Browse a 26,000-drama catalogue
+**No sign-in required.**
 
+Prefer to explore? The **Catalogue** pages through **26,000+ verified dramas** — live-action, animated
+and AI 短剧 alike. Jump by genre, run an in-app search, and sort or filter by status to find exactly
+what you want. Everything you line up drops onto **My Queue** so you can browse now and bulk-download
+later.
+
+- **26,000+ verified dramas** — and growing daily
+- Genre tabs, in-app **search**, sort & status filter
+- **My Queue** — choose exact episodes (1‑3, 5, 8‑12…) or take them all, then batch-download the lot
+
+<div align="center"><img src="https://hongguodownloader.com/img/home/04-queue.jpg" width="900" alt="My Queue — several series lined up, each with its episode count and a Choose episodes button"></div>
+
+<br>
+
+### 4. A self-updating Library
+**Everything you download, on one poster shelf.**
+
+Everything shows up as a poster shelf you can sort and browse, each card showing its ⭐ rating and size
+on disk. When a series you follow gets new episodes, the app spots them — one tap on **Update all** grabs
+every new & missing episode straight into its existing folder.
+
+- A poster-wall **Library** of everything you own
+- **Update all** — grabs every new & missing episode, one tap
+- **⭐ star ratings** & **size on disk** on every card
+- Your own update settings: quality, speed & series at once
+
+<div align="center"><img src="https://hongguodownloader.com/img/home/06-library.jpg" width="900" alt="The Library — a poster shelf of downloaded short-dramas with star ratings, sizes and one-tap Update all"></div>
+
+<br>
+
+### 5. Built-in player &nbsp;·&nbsp; ⭐ *New in v1.0.0.54*
+**Watch it right here. Auto-play, resume, binge.**
+
+A real built-in player means you never leave the app. Episodes auto-play back-to-back, and every series
+remembers where you left off (cards show "Resume E12"). The next episode is pre-loaded so jumps are
+instant.
+
+- **Auto-play next** — episodes roll on their own
+- **Resume** exactly where you left off
+- **Keyboard shortcuts** (→ / ← / Space) & seamless pre-loaded jumps
+- Playback **speed** (0.5×–2×) & **Picture-in-Picture**
+
+<div align="center"><img src="https://hongguodownloader.com/img/home/07-player.jpg" width="900" alt="The built-in video player with a control bar: previous, next, playback speed, Picture-in-Picture and Auto-play"></div>
+
+<br>
+
+### 6. Merge & manage in bulk &nbsp;·&nbsp; ⭐ *New in v1.0.0.54*
+**Turn a whole series into one file.**
+
+Turn on **Select mode** to pick several series at once and Play, Merge, Update, Mark seen or Delete them
+together. **Merge** combines every episode of a drama into a single MP4 with a chapter per episode — full
+1080p, no more clicking through hundreds of files.
+
+- **Select mode** — act on many series at once
+- **Merge** a series into one MP4, a chapter per episode
+- Bulk **Play · Update · Mark seen · Delete**
+- Deletes go to **Trash** with one-tap **Undo**
+
+<div align="center"><img src="https://hongguodownloader.com/img/home/08-select.jpg" width="900" alt="Library select mode with several series ticked and a bulk action bar: Play, Merge, Update, Mark seen and Delete"></div>
+
+<br>
+
+### 7. It just runs — nothing to sign into
 No Android emulator, no accounts, no Python or Java to install first — the one-click installer bundles
-everything. It runs entirely on your own computer, so your library stays yours.
+everything and runs entirely on your own computer, so your library stays yours.
 
 - **One-click installer** — no admin rights needed
-- No emulator, no login, **no account exposed** · runs locally, **private by design**
+- No login, **no account exposed** · runs locally, **private by design**
 - Full-quality, playable **`.mp4`** files you truly own
-- **New — Display size**: scale the whole app **125–200%** to fit any screen
-- **New — one clean window**: reopening the app just brings your window back
-- Updates install right over your current version — **license &amp; library carry over**
-
-<div align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://hongguodownloader.com/img/v31/app-account-dark.jpg">
-  <img src="https://hongguodownloader.com/img/v31/app-account-light.jpg" width="900" alt="Hongguo Downloader v1.0.0.31 Account panel — Licensed unlimited plan, version 1.0.0.31 and the new Display size control">
-</picture></div>
+- Updates install right over your current version — **license & library carry over**
 
 ---
 
 ## 💎 Pricing
 
-Use it **free** every day. Go unlimited with a one-time key — pay with **Telegram Stars ★** or card.
+Use it **free** every day. Go unlimited with a **card** — your license key arrives instantly, on-screen
+and by email.
 
 | Plan | Price | Devices | Downloads |
 |:--|:--|:-:|:--|
 | **Free** | `$0` forever | 1 | **2 series / day** |
-| **1 Year** | **★ 1,500**  ·  or **$25.99** | 1 | Unlimited |
-| **Lifetime** ⭐ *Best value* | **★ 2,500**  ·  or **$42.99** | 1 | Unlimited |
-| **Lifetime · 3** | **★ 5,000**  ·  or **$85.99** | 3 | Unlimited |
+| **Monthly** | **$9.99** / mo | 1 | Unlimited · cancel anytime |
+| **Yearly** ⭐ *Most popular* | **$29.99** / yr | 1 | Unlimited · save 75% vs monthly |
+| **Lifetime** | **$59.99** once | 1 | Unlimited · never expires |
 
-<sub>★ = Telegram Stars · one key activates one device · move to another device yourself, once every 7 days.</sub>
+<sub>Secure checkout by Stripe · Visa, Mastercard, Apple Pay & more · one key activates one device · move it to another PC yourself, once every 7 days · cancel anytime · all sales final ([refund policy](https://hongguodownloader.com/refund-policy) · [terms](https://hongguodownloader.com/terms)).</sub>
 
-**[💬 Get your key on Telegram → @HongguoDownloaderBot](https://t.me/HongguoDownloaderBot)**
+**[💳 Go unlimited → hongguodownloader.com/#pricing](https://hongguodownloader.com/#pricing)** &nbsp;·&nbsp; you can also buy right inside the app.
 
 ---
 
@@ -145,7 +173,7 @@ Use it **free** every day. Go unlimited with a one-time key — pay with **Teleg
 
 | | | |
 |:-:|:--|:--|
-| **1** | **Install** | Download the installer and run it. It sets itself up — no accounts, no fuss. |
+| **1** | **Install** | Download the installer and run it. It sets itself up — no accounts, no admin rights, no fuss. |
 | **2** | **Find your drama** | Search a title or paste a share link, then tap the posters you want. |
 | **3** | **Download & keep** | Hit Download. Every episode saves to your folder in full quality, offline forever. |
 
@@ -153,14 +181,14 @@ Use it **free** every day. Go unlimited with a one-time key — pay with **Teleg
 
 ## ⬇️ Download
 
-### **[Download for Windows (Latest v1.0.0.35) →](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)**
+### **[Download for Windows (Latest v1.0.0.54) →](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)**
 
 - [View all releases](https://github.com/M4St3r0/hongguo-downloader/releases/)
-- [Release notes (v1.0.0.35)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.35)
+- [Release notes (v1.0.0.54)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.54)
 
 > Windows 10 / 11 · one-time install · ~88 MB · free to use (2 downloads a day)
 >
-> ℹ️ Windows may show an “unknown publisher” warning on first run (the installer isn't code-signed yet). Click **More info → Run anyway**.
+> ℹ️ Windows may show an "unknown publisher" warning on first run (the installer isn't code-signed yet). Click **More info → Run anyway**.
 
 ---
 
