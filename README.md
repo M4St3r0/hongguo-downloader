@@ -13,7 +13,7 @@ Now with a built-in player, one-file series merging, and full library management
 <br>
 
 [![Download for Windows](https://img.shields.io/badge/⬇%20Download%20for%20Windows-10%20%2F%2011-ff6a2b?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)
-[![Latest Release](https://img.shields.io/badge/Release-v1.0.0.54-24ddcf?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.54)
+[![Latest Release](https://img.shields.io/badge/Release-v1.0.0.71-24ddcf?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/latest)
 [![Website](https://img.shields.io/badge/🌐%20Website-hongguodownloader.com-24ddcf?style=for-the-badge)](https://hongguodownloader.com)
 [![Telegram](https://img.shields.io/badge/💬%20Support-@HongguoDownloaderBot-2AABEE?style=for-the-badge)](https://t.me/HongguoDownloaderBot)
 
@@ -181,10 +181,10 @@ and by email.
 
 ## ⬇️ Download
 
-### **[Download for Windows (Latest v1.0.0.54) →](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)**
+### **[Download for Windows (Latest v1.0.0.71) →](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)**
 
 - [View all releases](https://github.com/M4St3r0/hongguo-downloader/releases/)
-- [Release notes (v1.0.0.54)](https://github.com/M4St3r0/hongguo-downloader/releases/tag/1.0.0.54)
+- [Release notes (v1.0.0.71)](https://github.com/M4St3r0/hongguo-downloader/releases/latest)
 
 > Windows 10 / 11 · one-time install · ~88 MB · free to use (2 downloads a day)
 >
