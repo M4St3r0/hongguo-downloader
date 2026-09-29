@@ -17,7 +17,7 @@ Now with a built-in player, one-file series merging, and full library management
 [![Website](https://img.shields.io/badge/🌐%20Website-hongguodownloader.com-24ddcf?style=for-the-badge)](https://hongguodownloader.com)
 [![Telegram](https://img.shields.io/badge/💬%20Support-@HongguoDownloaderBot-2AABEE?style=for-the-badge)](https://t.me/HongguoDownloaderBot)
 
-`Windows 10 / 11` · `~88 MB` · `No login` · `No admin rights` · `No Android emulator` · `Private & local`
+`Windows 10 / 11` · `~135 MB` · `No login` · `No admin rights` · `No Android emulator` · `Private & local`
 
 <br>
 
@@ -186,7 +186,7 @@ and by email.
 - [View all releases](https://github.com/M4St3r0/hongguo-downloader/releases/)
 - [Release notes (v1.0.0.72)](https://github.com/M4St3r0/hongguo-downloader/releases/latest)
 
-> Windows 10 / 11 · one-time install · ~88 MB · free to use (2 downloads a day)
+> Windows 10 / 11 · one-time install · ~135 MB · free to use (2 downloads a day)
 >
 > ℹ️ Windows may show an "unknown publisher" warning on first run (the installer isn't code-signed yet). Click **More info → Run anyway**.
 
