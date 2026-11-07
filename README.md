@@ -13,11 +13,11 @@ Now with a built-in player, one-file series merging, and full library management
 <br>
 
 [![Download for Windows](https://img.shields.io/badge/⬇%20Download%20for%20Windows-10%20%2F%2011-ff6a2b?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)
-[![Latest Release](https://img.shields.io/badge/Release-v1.0.0.85-24ddcf?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/latest)
+[![Latest Release](https://img.shields.io/badge/Release-v2.0.0-24ddcf?style=for-the-badge)](https://github.com/M4St3r0/hongguo-downloader/releases/latest)
 [![Website](https://img.shields.io/badge/🌐%20Website-hongguodownloader.com-24ddcf?style=for-the-badge)](https://hongguodownloader.com)
 [![Telegram](https://img.shields.io/badge/💬%20Support-@HongguoDownloaderBot-2AABEE?style=for-the-badge)](https://t.me/HongguoDownloaderBot)
 
-`Windows 10 / 11` · `~135 MB` · `No login` · `No admin rights` · `No Android emulator` · `Private & local`
+`Windows 10 / 11` · `~160 MB` · `No login` · `No admin rights` · `No Android emulator` · `Private & local`
 
 <br>
 
@@ -181,12 +181,12 @@ and by email.
 
 ## ⬇️ Download
 
-### **[Download for Windows (Latest v1.0.0.85) →](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)**
+### **[Download for Windows (Latest v2.0.0) →](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe)**
 
 - [View all releases](https://github.com/M4St3r0/hongguo-downloader/releases/)
-- [Release notes (v1.0.0.85)](https://github.com/M4St3r0/hongguo-downloader/releases/latest)
+- [Release notes (v2.0.0)](https://github.com/M4St3r0/hongguo-downloader/releases/latest)
 
-> Windows 10 / 11 · one-time install · ~135 MB · free to use (2 downloads a day)
+> Windows 10 / 11 · one-time install · ~160 MB · free to use (2 downloads a day)
 >
 > ℹ️ Windows may show an "unknown publisher" warning on first run (the installer isn't code-signed yet). Click **More info → Run anyway**.
 
