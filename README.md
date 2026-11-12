@@ -12,11 +12,11 @@ Live-action, comic and AI dramas (AI 短剧).
 
 <br>
 
-<a href="https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe"><img src="https://img.shields.io/badge/Download%20free%20for%20Windows-161.3%20MB-F4641A?style=for-the-badge&labelColor=D42A22" alt="Download free for Windows, 161.3 MB"></a>
+<a href="https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe"><img src="https://img.shields.io/badge/Download%20free%20for%20Windows-169.7%20MB-F4641A?style=for-the-badge&labelColor=D42A22" alt="Download free for Windows, 169.7 MB"></a>
 <a href="https://github.com/M4St3r0/hongguo-downloader/releases/latest"><img src="https://img.shields.io/github/v/release/M4St3r0/hongguo-downloader?style=for-the-badge&label=Version&color=FFB547&labelColor=2B2724" alt="Latest version"></a>
 <a href="https://hongguodownloader.com"><img src="https://img.shields.io/badge/hongguodownloader.com-2B2724?style=for-the-badge" alt="Website: hongguodownloader.com"></a>
 
-<sub><b>Version 2.0.4</b> &nbsp;·&nbsp; Windows 10 and 11 (64-bit) &nbsp;·&nbsp; Free: 2 new series a day &nbsp;·&nbsp; No account &nbsp;·&nbsp; No admin rights &nbsp;·&nbsp; <a href="https://hongguodownloader.com/zh/">中文</a></sub>
+<sub><b>Version 2.0.5</b> &nbsp;·&nbsp; Windows 10 and 11 (64-bit) &nbsp;·&nbsp; Free: 2 new series a day &nbsp;·&nbsp; No account &nbsp;·&nbsp; No admin rights &nbsp;·&nbsp; <a href="https://hongguodownloader.com/zh/">中文</a></sub>
 
 <br><br>
 
@@ -36,7 +36,7 @@ Live-action, comic and AI dramas (AI 短剧).
 - 🎞️ **A series window** with every season and the sizes each series really comes in, with Play to watch.
 - ⬇️ **Downloads in the original 1080p**, several series at once, with live progress and speed.
 - ⚡ **Much faster downloads** that keep going when a connection stalls.
-- 📚 **Your Library:** Play and Open folder on every cover, episodes that play straight from your PC with no internet, the new seasons of your dramas, and Select to delete several at once.
+- 📚 **Your Library:** Play and Open folder on every cover, episodes that play straight from your PC with no internet, **Merge** a drama into one file or **Convert** it to H.264, the new seasons of your dramas, and Select to delete several at once.
 - ▶️ **A built-in player** right in the app window.
 - 🎁 **Try it free:** 2 new series a day, and watch the first 5 episodes of every series.
 - 💳 **Buy in the app** by card, PayPal, Google Pay or crypto. Your new key goes in by itself.
@@ -118,6 +118,9 @@ Got a link from a friend? Open **Link**, paste it and press **Find series**. *"P
 </picture>
 
 - **Play** and **Open folder** on every cover. Downloaded episodes play straight from your PC, with no internet.
+- **Merge** a drama into one file, merged.mp4, in about a minute, even when its episodes differ in size, frame rate or sound. An older merged file is never lost: it goes to the Recycle Bin, and the app asks first if it's longer.
+- **Convert to H.264** for TVs, phones and editors that can't play HEVC: **Best quality** (looks the same as the original), **Balanced** or **Fast**, on your graphics card (NVIDIA, Intel or AMD) or your processor. The copies go into the drama's H264 folder.
+- Open a drama or right-click its cover to merge or convert it, or **Select** several to do them one after another. Progress shows on each cover, and **Stop** works at any time.
 - **New seasons:** when a drama you have gets a new season, it shows up here, with **Download all new seasons**.
 - **Select** several series and delete them at once. They go to the Recycle Bin, so you can bring them back (a network drive has no Recycle Bin, so there the app warns you that it's for good).
 
@@ -187,7 +190,7 @@ Got a link from a friend? Open **Link**, paste it and press **Find series**. *"P
 
 | | | |
 |:-:|:--|:--|
-| **1** | **Install** | [Download Setup](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe) (161.3 MB) and run it. It installs for your Windows account, with no administrator rights, and opens the app. |
+| **1** | **Install** | [Download Setup](https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe) (169.7 MB) and run it. It installs for your Windows account, with no administrator rights, and opens the app. |
 | **2** | **Find a drama** | Browse with filters, search by title, check Ranking or New, or paste a share link into Link. |
 | **3** | **Pick episodes and quality** | Every episode starts selected. Pick a quality: the window shows how much space it takes. |
 | **4** | **Download and watch** | Every episode saves as an MP4 file (named like `S01E001.mp4`) in `Videos\Hongguo`, one folder per series, and plays in the built-in player, even offline. |
@@ -220,7 +223,7 @@ Got a link from a friend? Open **Link**, paste it and press **Find series**. *"P
 ## 💻 Requirements
 
 - **Windows 10** (version 2004 or newer) or **Windows 11**, 64-bit
-- **Setup is 161.3 MB**, installs for your Windows user and needs no administrator rights
+- **Setup is 169.7 MB**, installs for your Windows user and needs no administrator rights
 - **Nothing else to install:** Setup brings everything the app needs, with no emulator and no account
 - **An internet connection** to browse and download. Downloaded episodes play offline.
 
@@ -291,7 +294,7 @@ No. Hongguo Downloader is an independent app made by FireCode LLC, not affiliate
 
 <div align="center">
 
-<a href="https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe"><img src="https://img.shields.io/badge/Download%20free%20for%20Windows-161.3%20MB-F4641A?style=for-the-badge&labelColor=D42A22" alt="Download free for Windows, 161.3 MB"></a>
+<a href="https://github.com/M4St3r0/hongguo-downloader/releases/latest/download/HongguoDownloader-Setup.exe"><img src="https://img.shields.io/badge/Download%20free%20for%20Windows-169.7%20MB-F4641A?style=for-the-badge&labelColor=D42A22" alt="Download free for Windows, 169.7 MB"></a>
 
 <a href="https://hongguodownloader.com">Website</a> &nbsp;·&nbsp; <a href="https://hongguodownloader.com/whatsnew/">What's new</a> &nbsp;·&nbsp; <a href="https://hongguodownloader.com/blog/">Guides</a> &nbsp;·&nbsp; <a href="https://hongguodownloader.com/zh/">中文</a> &nbsp;·&nbsp; <a href="https://t.me/HongguoDownloaderBot">Telegram</a> &nbsp;·&nbsp; <a href="https://www.youtube.com/@hongguodownloader">YouTube</a> &nbsp;·&nbsp; <a href="https://www.facebook.com/hongguodownloader/">Facebook</a>
 
